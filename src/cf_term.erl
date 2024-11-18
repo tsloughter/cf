@@ -89,6 +89,7 @@ has_color("emu") -> true;
 has_color("emx-base") -> true;
 has_color("eterm-color") -> true;
 has_color("foot") -> true;
+has_color("ghostty") -> true;
 has_color("gnome") -> true;
 has_color("gnome-2007") -> true;
 has_color("gnome-2008") -> true;
